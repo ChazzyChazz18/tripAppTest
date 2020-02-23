@@ -1,16 +1,18 @@
-# trip_app_test
+# Trip App Test ✈️
 
-A new Flutter project.
+> A flutter trip app created on the flutter course of platzi.
 
-## Getting Started
+## Things to keep in mind...
 
-This project is a starting point for a Flutter application.
+* Is much likely to be a test app (meaning is not gonna be so completed...)
+* It have a lended UI (Thanks to the author)
+* Its going to have just 2 major versions:
 
-A few resources to get you started if this is your first Flutter project:
+> - 0.0.1 - just the UI and its interactions (as of right now)
+> - 0.0.2 - A major implementation of code to connect to an api (Firebase) and more...
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Versions:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Uploaded    |      date
+:-------------: | :-------------:
+    0.0.1       |   02/23/2020
