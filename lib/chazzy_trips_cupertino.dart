@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:trip_app_test/screen_widgets/home_trips.dart';
-import 'package:trip_app_test/screen_widgets/profile_trips.dart';
-import 'package:trip_app_test/screen_widgets/search_trips.dart';
+import 'Place/ui/screens/home_trips.dart';
+import 'Place/ui/screens/search_trips.dart';
+import 'User/ui/screens/profile_trips.dart';
 
 class ChazzyTripsCupertino extends StatelessWidget {
   @override
